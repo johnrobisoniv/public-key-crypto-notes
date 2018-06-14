@@ -7,6 +7,10 @@
 # First, import packages
 import publickeycryptomodule as pkcm                # the module object**
 
+# I made this up. This is a simplified explanation. 
+# Hope to update with actual libraries and methods etc
+
+
 
 # pkcm has the following methods:
 
